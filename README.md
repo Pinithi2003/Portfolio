@@ -1,8 +1,9 @@
-# Portfolio
-Portfolio website of Pinithi Ransiluni featuring software development projects, technical skills, and academic achievements.
+# Pinithi Ransiluni Portfolio 👋
 
-# Hi, I'm Pinithi Ransiluni 👋
+Portfolio website of Pinithi Ransiluni, showcasing software development projects, technical skills, and academic achievements.
 
-I'm an Information Technology student passionate about web development, mobile application development, and creating user-friendly digital experiences.
+## About Me
 
-This portfolio showcases my projects, skills, and achievements.
+I'm an Information Technology student with a passion for web development, mobile application development, and creating user-friendly digital experiences.
+
+This portfolio highlights my projects, technical skills, and academic journey as I continue to grow as a software developer.
